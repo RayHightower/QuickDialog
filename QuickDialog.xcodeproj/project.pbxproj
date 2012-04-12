@@ -395,6 +395,8 @@
 		D80B0E3D13E052DF00FA85CA /* sample */ = {
 			isa = PBXGroup;
 			children = (
+				D871018414BB3D7A00156D9D /* QRootElement+Builder.h */,
+				D871018514BB3D7A00156D9D /* QRootElement+Builder.m */,
 				D86249F014BB5A64002F0585 /* json */,
 				D8F180E813F0599A009B0CAD /* JsonDataSampleController.h */,
 				D8F180E813F0599A009B0CAB /* JsonDataSampleController.m */,
@@ -554,14 +556,12 @@
 				F2E614A1151CA1A100F36976 /* QSelectItemElement.m */,
 				D811F8B413EC905B00E3922B /* QRootElement.h */,
 				D811F8B513EC905B00E3922B /* QRootElement.m */,
-				D871018414BB3D7A00156D9D /* QRootElement+Builder.h */,
-				D871018514BB3D7A00156D9D /* QRootElement+Builder.m */,
 				D811F8B613EC905B00E3922B /* QSection.h */,
 				D811F8B713EC905B00E3922B /* QSection.m */,
-				D811F8B813EC905B00E3922B /* QSortingSection.h */,
 				D811F8B913EC905B00E3922B /* QSortingSection.m */,
 				D811F8BA13EC905B00E3922B /* QTextElement.h */,
 				D811F8BB13EC905B00E3922B /* QTextElement.m */,
+				D811F8B813EC905B00E3922B /* QSortingSection.h */,
 				D811F8BC13EC905B00E3922B /* QWebElement.h */,
 				D811F8BD13EC905B00E3922B /* QWebElement.m */,
 				D811F8BE13EC905B00E3922B /* QWebViewController.h */,
